@@ -1291,10 +1291,10 @@ padding-left: 0px;
 }
 .leftside>h1{
 	font-family: "OpenSans Bold";
-	top:30%;
+	top:39%;
 	left: 13.2%;
 	position: absolute;
-	font-size: 27px;
+	font-size: 30px;
 	letter-spacing: 8px;
 	z-index: 100;
 	margin: 0px;
@@ -1302,9 +1302,9 @@ padding-left: 0px;
 .leftside>p{
 	position: absolute;
 	font-family: "OpenSans Regular";
-	top:40%;
+	top:47.5%;
 	left: 13.2%;
-	font-size: 20px;
+	font-size: 25px;
 	z-index: 100;
 	width: 35%;
 }
